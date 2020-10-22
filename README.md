@@ -16,3 +16,6 @@ Step 2: Install the following libraries one by one
         pip install numpy
         pip install pydeck
         pip install plotly_express
+
+Step 3: After this change the address for your dataset on line 8 of "app.py" file
+(Make sure you are using correct address and specifying and unicode standards( // or / or \))
