@@ -19,3 +19,9 @@ Step 2: Install the following libraries one by one
 
 Step 3: After this change the address for your dataset on line 8 of "app.py" file
 (Make sure you are using correct address and specifying and unicode standards( // or / or \))
+
+Step 4: In Anaconda prompt or cmd type streamlit run app.py
+
+Step 5: Check for any browser pop-up or simply go to localhost:8501
+
+Step 6: Check for any error or else your code would be running fine
