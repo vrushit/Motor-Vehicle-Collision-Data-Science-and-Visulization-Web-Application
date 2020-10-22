@@ -9,4 +9,10 @@ https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9g
 Step 1: Open the CMD or Anaconda Prompt
 ( Anaconda Prompt preferred)
 
-Step 2: Install the following libraried one by one
+Step 2: Install the following libraries one by one
+
+        pip install streamlit
+        pip install pandas
+        pip install numpy
+        pip install pydeck
+        pip install plotly_express
